@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a math masters student at Brigham Young University set to graduate April 2026. My math research background began in spectral graph theory and is now in active learning. I have sought to strike a balance between theoretical and computational skills, and I don't value one over the other.
+I am a math masters student at Brigham Young University set to graduate April 2026. My research experience has mainly been concerned with spectral graph theory and active learning. Coming soon: a paper on the Construction and Properties of Non-Backtracking Matrices of Graphs. My thesis will be on improvements to the state-of-the-art online batch selection methods for deep neural network training and how introducing randomness can lead to faster convergence in prediction space.
 
 Research Interests
 ======
 My interests are centered around the Mathematics of Machine Learning. I appreciate rigorous mathematical treatment of machine learning methods, and I am especially interested in foundational understanding of deep learning and neural networks.
 
-- Bayesian Inference/Statistics
+- Uncertainty Quantification
 - Sampling Methods
 - Dimensionality Reduction
 - Randomized Methods

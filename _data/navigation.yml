@@ -23,8 +23,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/LukeGreenCV.pdf
+    external: true
+    new_tab: true
+    # url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
