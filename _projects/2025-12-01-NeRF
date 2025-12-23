@@ -1,0 +1,7 @@
+---
+title: "PyTorch Implementation of Neural Radiance Fields"
+date: 2026-12-01
+excerpt: "Neural Radiance Fields (NeRFs) are a framework for learning continuous 3D scene representations from a set of 2D images by modeling how light is emitted and absorbed along camera rays. In this project, I implemented NeRFs as presented by Mildenhall et al. (2020) in NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. My implementation included ray generation, stratified and hierarchical sampling, positional encoding, and volumetric rendering."
+codeurl: "https://github.com/lukegreen109/nerfs"
+# pdfurl: "/files/DQN.pdf"
+---

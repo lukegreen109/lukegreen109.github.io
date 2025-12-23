@@ -1,0 +1,7 @@
+---
+title: "Empirical Study of Exploration/Exploitation Tradeoff in RPCholesky on Synthetic Datasets"
+date: 2026-12-01
+excerpt: "We investigate the effectiveness of RP-Cholesky and its variants for computing low-rank approximations of radial basis function (RBF) kernel matrices. Previous work has focused primarily on real-world datasets [CETW24]. We aim to evaluate whether the observed characteristics for real-world data hold for both synthetic and randomized data where we can control the presence of noise. Our study provides insights into the performance and robustness of RP-Cholesky methods across different types of data matrices."
+# codeurl: "https://github.com/lukegreen109/nerfs"
+pdfurl: "/files/510_project.pdf"
+---
